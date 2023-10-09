@@ -27,7 +27,7 @@ You can contribute to the project by doing the following:
 10. You're now ready to start getting the VM ready.
    Go back to `teamsurtes.com` in your terminal and `cd trellis`.
    Now run `trellis vault decrypt development` and `trellis init`.
-11. Enusre your 
+11. Enusre your SSH Keys are correctly set up. Please read [Trellis SSH Keys](https://roots.io/trellis/docs/ssh-keys/)
 12. Now, start your VM.
    - Mac Users use Lima: `trellis vm start`
    - Linux/WSL use Vagrant: `trellis up`
