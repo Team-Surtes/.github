@@ -21,6 +21,7 @@ You can contribute to the project by doing the following:
 6. Then install the following formulae with `brew`:
    - `brew install ansible` (Installs Ansible)
    - `brew install roots/tap/trellis-cli` (Installs Trellis CLI)
+   - `brew install --cask virutalbox` (Installs VirtualBox)
    - **(Mac Users Only)** `brew install lima` (Installs Lima VM)
 7. Change your terminal directory to `teamsurtes.com/site/web/app/themes` and clone `https://github.com/Team-Surtes/theme`
 8. Change your terminal directory again to `teamsurtes.com/site/web/app/plugins` and clone `https://github.com/Team-Surtes/sponsors`.
