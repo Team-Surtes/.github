@@ -2,14 +2,15 @@
 You'll find all of the code we're working on at the moment here in this organisation.
 
 ## Tech Stack
-We run a JAMstack comprised of:
-- [Directus](https://directus.io)
-- [Nuxt](https://nuxt.com)
+Everything is running on [Nuxt](https://nuxt.com) and managed by [Nuxt Studio](https://nuxt.studio).
 
 ## Contributing Guide
-1. Clone the Directus repository.
-2. Decrypt the `/secrets` folder with [Ansible Vault](https://docs.ansible.com/ansible/latest/vault_guide/index.html). Ask your committee or webmaster for a copy of the password.
-3. Clone the Nuxt repository.
+1. Clone the Nuxt repository.
+2. Make your changes on a new branch.
+3. Perform a merge request.
+4. Once approved by the webmaster, wait for Nuxt Studio to run the deploy action.
+5. Check your changes deploy.
+6. Done!
 
 ### Rules
 - Create a new branch for any new changes
