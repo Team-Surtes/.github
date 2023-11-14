@@ -1,5 +1,5 @@
 # Welcome to Team SURTES' Codespace
-You'll find all of the code we're working on at the moment here in this organisation.
+You'll find everything we're working on here!
 
 ## Tech Stack
 Everything is running on [Nuxt](https://nuxt.com) and managed by [Nuxt Studio](https://nuxt.studio).
