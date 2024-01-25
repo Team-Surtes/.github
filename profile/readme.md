@@ -2,7 +2,7 @@
 You'll find everything we're working on here!
 
 ## Tech Stack
-Everything is running on [Nuxt](https://nuxt.com) and managed by [Nuxt Studio](https://nuxt.studio).
+[Nuxt](https://nuxt.com) frontend with content managed by [Nuxt Studio](https://nuxt.studio).
 
 ## Contributing Guide
 1. Clone the [Website](https://github.com/Team-Surtes/Website) repository.
